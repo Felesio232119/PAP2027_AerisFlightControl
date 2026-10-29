@@ -1,6 +1,8 @@
 # Aeris Flight Control
 **PAP 2027 – TGPSI, Escola Secundária de Vergílio Ferreira**
-Aluno: Leonardo O. S. Ferreira · Turma 12.º 13.ª · N.º 14
+
+Aluno: Leonardo O. S. Ferreira · Turma 12.º 13.ª · N.º 14  
+
 Professor orientador: Jorge Silva
 
 ## Descrição
@@ -33,10 +35,9 @@ O Aeris Flight Control será um sistema de controlo de um drone, em ambiente sim
 | Outras | Git e GitHub, VS Code; C++ e ESP32 (extensão, se houver tempo) |
 
 ## Base de dados (tabelas previstas)
-- voos (identificador, data, nível de dificuldade, parâmetros do PID)
-- leituras (identificador, voo a que pertence, instante, posição, altitude, velocidade, bateria)
+- **Por decidir ...**
 
-A estrutura final será definida na fase de modelação (novembro).
+A estrutura final será definida na fase de modelação.
 
 ## Planeamento
 | Fase | Período | Estado |
