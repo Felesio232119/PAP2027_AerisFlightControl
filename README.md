@@ -49,4 +49,4 @@ A estrutura final será definida na fase de modelação.
 
 ## Registo de progresso
 - 26/10/2026 – Proposta de anteprojeto redigida.
-- [data] – Criação do repositório e apresentação do projeto.
+- 29/10/2026 – Criação do repositório e apresentação do projeto.
